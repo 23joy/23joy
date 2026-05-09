@@ -34,7 +34,6 @@ Currently learning and working with **HTML, CSS, JavaScript, and API integration
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=23joy&show_icons=true&theme=radical)
-
 ---
 
 ## 📫 Contact Me
